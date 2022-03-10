@@ -1,3 +1,6 @@
-# This script for cleanup unused Docker
+# This script for cleanup unused Docker and release VHDX file
 
-1. For windows: [windows](window_script.ps1)
+## For windows: [windows](window_script.ps1)
+
+1. Double click on: run.cmd
+2. Restart Docker Desktop
