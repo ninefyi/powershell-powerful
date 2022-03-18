@@ -1,0 +1,1 @@
+pwsh ./pull-docker-image.ps1
